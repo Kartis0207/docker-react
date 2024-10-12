@@ -1,5 +1,3 @@
-user-attachments/assets/ce4945ba-313b-4cd9-85fc-becf5726ed8a">
-
 # docker-react
 
 react の docker プロジェクト
@@ -27,3 +25,6 @@ docker-compose up -d
 #### react
 
 http://localhost:3000/
+
+
+参考：https://github.com/StephenGrider/docker-react
